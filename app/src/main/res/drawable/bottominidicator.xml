@@ -10,7 +10,7 @@
                         />
 
                     <corners android:radius="200dp"></corners>
-                    <solid android:color="@color/teal_700" />
+                    <solid android:color="@color/white" />
                 </shape>
             </item>
         </layer-list>
