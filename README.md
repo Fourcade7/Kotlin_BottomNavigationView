@@ -1,8 +1,7 @@
 # Kotlin_BottomNavigationView
 
-     val badge = binding.bottomnavigationveiw1.getOrCreateBadge(R.id.item1)
+        val badge = binding.bottomnavigationveiw1.getOrCreateBadge(R.id.item1)
         badge.isVisible = true
-// An icon only badge will be displayed unless a number is set:
         badge.number = 99
 
 
